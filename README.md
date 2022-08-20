@@ -1,4 +1,4 @@
-Github page: https://marksolidor.github.io/React-Gallery/
+Github page: https://marksolidor.github.io/Galley-with-react/
 
 # Getting Started with Create React App
 
